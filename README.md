@@ -1,5 +1,7 @@
 # Description
-Small program to make the task of selecting photos, involving a lot of clicking if done manually, easier. **Must be opened in Spyder** to work.
+Small program to make the task of selecting photos, involving a lot of clicking if done manually, easier. 
+
+**Must be opened in Spyder** to work.
 
 Basic features:
 - Prompts for setting photo location (working directory, wd)
