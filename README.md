@@ -5,7 +5,7 @@ Must be opened in **Spyder** to work.
 
 Basic features:
 - Prompts for setting photo location (working directory, wd)
-- Checks whether program had been run before:
+- Checks whether program has been run before:
   - If not, (only) image files are "selected" from wd
   - If so and some photos are still pending evaluation, these are loaded. If all photos in folder have already been reviewed before, user may choose to restart process or exit
 - Displays image in Spyder via matplotlib
